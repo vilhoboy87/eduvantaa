@@ -1,7 +1,7 @@
 # eduvantaa
 Siinä kerrotaan: 
 -Hyökkäävistä Iot-laitteista.
--Valtioiden cälisestä cybersodasta.
+-Valtioiden välisestä cybersodasta.
 -Siitä että eristettyä verkkoa ei ole.
 -Vihreän energian pimeästä puolesta.
 -Siitä, että valtiot iskevät kriittisiin rakenteisiin.
